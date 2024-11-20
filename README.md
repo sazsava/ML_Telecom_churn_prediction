@@ -1,5 +1,5 @@
 # ML_beginner_coursework
-Telecom churn analysis and prediction via basic ML models
+Business churn analysis and prediction via basic ML models
 ***
 **Описание работы:**
 &nbsp;&nbsp;&nbsp;&nbsp;
