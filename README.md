@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/premium-vector/information-storage-infrastructure-big-data-architecture-big-data-visualization-data-entry_566886-4683.jpg?w=1380" width="626" height="209" />
+<img src="https://img.freepik.com/premium-vector/information-storage-infrastructure-big-data-architecture-big-data-visualization-data-entry_566886-4683.jpg?w=1380" width="626" height="409" />
 
 ## 1.1. Задача
 ***
