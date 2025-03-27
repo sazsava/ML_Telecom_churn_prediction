@@ -23,7 +23,7 @@
 ## 1.2. Набор данных
 ***
 Данные можно скачать по ссылке:
-[https://drive.google.com/file/d/1dPCG76ST6NohYKtVMGv6HpFL-jD5p1eJ/view]
+[Ссылка на Google Drive](https://drive.google.com/file/d/1dPCG76ST6NohYKtVMGv6HpFL-jD5p1eJ/view)
 ***
 telecom_users.csv содержит следующие значения:
 - customerID – id клиента
