@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/premium-vector/customer-behavior-analysis-abstract-concept-vector-illustrations_107173-32346.jpg?w=1380" width="729" height="251" />
+<img src="https://img.freepik.com/premium-vector/discontent-concept-set-dissatisfaction-product-service-negative_277904-20252.jpg?w=1380" width="759" height="293" />
 
 ## 1.1. Задача
 ***
