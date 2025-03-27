@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/premium-vector/web-cloud-technology-business-technology-storage-cloud-computing_566886-12461.jpg?w=1380" width="750" height="275" />
+<img src="https://img.freepik.com/premium-vector/customer-behavior-analysis-abstract-concept-vector-illustrations_107173-32346.jpg?w=1380" width="729" height="251" />
 
 ## 1.1. Задача
 ***
