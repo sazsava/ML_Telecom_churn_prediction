@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/free-vector/flat-people-vr-goggles-ai-robot-metaverse-solve-problem-data-privacy_88138-1611.jpg?t=st=1743085079~exp=1743088679~hmac=c84edd0c029e93cc029048d708277191e5a1bd077d9075a7a7c0dde86100ee9e&w=1380" width="626" height="209" />
+<img src="https://img.freepik.com/free-vector/flat-people-vr-goggles-ai-robot-metaverse-solve-problem-data-privacy_88138-1611.jpg?t=st=1743085079~exp=1743088679~hmac=c84edd0c029e93cc029048d708277191e5a1bd077d9075a7a7c0dde86100ee9e&w=1380" width="526" height="209" />
 
 ## 1.1. Задача
 ***
