@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/free-vector/team-mobile-web-app-development_107791-12795.jpg?t=st=1743085137~exp=1743088737~hmac=db4f05166b7fe27d010a87a7746a0bf50e42daaa72fb772c80624c03149d57a3&w=1380" width="626" height="209" />
+<img src="https://img.freepik.com/premium-vector/information-storage-infrastructure-big-data-architecture-big-data-visualization-data-entry_566886-4683.jpg?w=1380" width="626" height="209" />
 
 ## 1.1. Задача
 ***
