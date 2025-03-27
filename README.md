@@ -5,7 +5,7 @@
 ***Machine learning***
 
 ***
-<img src="https://img.freepik.com/premium-vector/flat-bundle-business-design-illustration_205077-4229.jpg?w=1380" width="626" height="269" />
+<img src="https://img.freepik.com/premium-vector/web-cloud-technology-business-technology-storage-cloud-computing_566886-12461.jpg?w=1380" width="750" height="275" />
 
 ## 1.1. Задача
 ***
